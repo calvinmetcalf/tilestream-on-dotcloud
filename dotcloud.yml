@@ -5,3 +5,5 @@ tilestream:
   environment:
     mbtiles:
       - http://a.tiles.mapbox.com/v2/mapbox.haiti-terrain-grey.mbtiles
+      - http://a.tiles.aa.am/v2/osm-bright-high.mbtiles
+
