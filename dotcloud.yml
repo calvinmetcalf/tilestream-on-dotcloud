@@ -1,7 +1,7 @@
 tilestream:
   type: nodejs
   requirements:
-    - git://github.com/calvinmetcalf/tilestream.git
+    - https://github.com/calvinmetcalf/tilestream/tarball/formatter2
   environment:
     mbtiles:
       - http://a.tiles.mapbox.com/v2/mapbox.haiti-terrain-grey.mbtiles
