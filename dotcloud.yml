@@ -1,9 +1,8 @@
 tilestream:
   type: nodejs
   requirements:
-    - tilestream
+    - git://github.com/calvinmetcalf/tilestream.git
   environment:
     mbtiles:
       - http://a.tiles.mapbox.com/v2/mapbox.haiti-terrain-grey.mbtiles
-      - http://a.tiles.aa.am/v2/osm-bright-high.mbtiles
 
